@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		EB1CE312C5EFF0E8E9223884 /* Day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE768CDECFBAC97DFE4DA /* Day02.swift */; };
+		EB1CE3E175B3FDB790046D8C /* Day04.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE5A7D28E8E7446759458 /* Day04.swift */; };
 		EB1CE85FE981D98358FA09BB /* Day01.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CEA264170281F3BFBE5D8 /* Day01.swift */; };
 		EB1CEAF3A2170D64A4A1BBA8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CEA7FC9B2A22A842A2343 /* main.swift */; };
 		EB1CEC3E00360E27D43650F1 /* Day03.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CECD85FE3A3491F22FA28 /* Day03.swift */; };
@@ -28,6 +29,8 @@
 
 /* Begin PBXFileReference section */
 		EB1CE52F4B1FB8E7CAEABBD1 /* Common.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
+		EB1CE5A7D28E8E7446759458 /* Day04.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day04.swift; sourceTree = "<group>"; };
+		EB1CE5F77D5A1AB94AC02138 /* Day04 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Day04; sourceTree = "<group>"; };
 		EB1CE5FDBD85B56E48C7C7AE /* advent2022 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = advent2022; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB1CE768CDECFBAC97DFE4DA /* Day02.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day02.swift; sourceTree = "<group>"; };
 		EB1CE779E7200270C1EDCD8D /* Day01 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Day01; sourceTree = "<group>"; };
@@ -58,6 +61,7 @@
 				EB1CE768CDECFBAC97DFE4DA /* Day02.swift */,
 				EB1CEA01A6BC1F5AF60F76C9 /* Resources */,
 				EB1CECD85FE3A3491F22FA28 /* Day03.swift */,
+				EB1CE5A7D28E8E7446759458 /* Day04.swift */,
 			);
 			path = advent2022;
 			sourceTree = "<group>";
@@ -84,6 +88,7 @@
 				EB1CE779E7200270C1EDCD8D /* Day01 */,
 				EB1CE89B548B38CD704EB3AB /* Day02 */,
 				EB1CE858EE6619A7ED583E5A /* Day03 */,
+				EB1CE5F77D5A1AB94AC02138 /* Day04 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -140,6 +145,7 @@
 				EB1CEE5C10FE921B7C286F80 /* Common.swift in Sources */,
 				EB1CE312C5EFF0E8E9223884 /* Day02.swift in Sources */,
 				EB1CEC3E00360E27D43650F1 /* Day03.swift in Sources */,
+				EB1CE3E175B3FDB790046D8C /* Day04.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
