@@ -30,3 +30,18 @@ public func preload(dayNumber: String) -> String {
     return content
 }
 
+extension String {
+    subscript(_ range: ClosedRange<Int>) -> SubSequence {
+        let start = index(startIndex, offsetBy: range.lowerBound)
+        let end = index(startIndex, offsetBy: range.upperBound)
+        return self[start ... end]
+    }
+
+    subscript(_ range: Range<Int>) -> SubSequence {
+        let start = index(startIndex, offsetBy: range.first!)
+        let end = index(startIndex, offsetBy: range.last!)
+        return self[start ... end]
+    }
+
+}
+
