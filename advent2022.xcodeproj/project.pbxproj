@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EB1CE00F058E96B60D1D190D /* Day06.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE0CB16A42927AE2A6279 /* Day06.swift */; };
 		EB1CE312C5EFF0E8E9223884 /* Day02.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE768CDECFBAC97DFE4DA /* Day02.swift */; };
+		EB1CE3D7DB24A623461881B3 /* Day07.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CED0043CB427276572A76 /* Day07.swift */; };
 		EB1CE3E175B3FDB790046D8C /* Day04.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE5A7D28E8E7446759458 /* Day04.swift */; };
 		EB1CE85FE981D98358FA09BB /* Day01.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CEA264170281F3BFBE5D8 /* Day01.swift */; };
 		EB1CE9D3C0BB1DE56E947F91 /* Day05.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB1CE15F7062BC805361D5CC /* Day05.swift */; };
@@ -44,7 +45,9 @@
 		EB1CEA264170281F3BFBE5D8 /* Day01.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day01.swift; sourceTree = "<group>"; };
 		EB1CEA7FC9B2A22A842A2343 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EB1CECD85FE3A3491F22FA28 /* Day03.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day03.swift; sourceTree = "<group>"; };
+		EB1CED0043CB427276572A76 /* Day07.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Day07.swift; sourceTree = "<group>"; };
 		EB1CEE25F4A4C45945B065E7 /* Day05 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Day05; sourceTree = "<group>"; };
+		EB1CEF3A3F0069103B165B2B /* Day07 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Day07; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +73,7 @@
 				EB1CE5A7D28E8E7446759458 /* Day04.swift */,
 				EB1CE15F7062BC805361D5CC /* Day05.swift */,
 				EB1CE0CB16A42927AE2A6279 /* Day06.swift */,
+				EB1CED0043CB427276572A76 /* Day07.swift */,
 			);
 			path = advent2022;
 			sourceTree = "<group>";
@@ -99,6 +103,7 @@
 				EB1CE5F77D5A1AB94AC02138 /* Day04 */,
 				EB1CEE25F4A4C45945B065E7 /* Day05 */,
 				EB1CE875C57168600E8C0C80 /* Day06 */,
+				EB1CEF3A3F0069103B165B2B /* Day07 */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -158,6 +163,7 @@
 				EB1CE3E175B3FDB790046D8C /* Day04.swift in Sources */,
 				EB1CE9D3C0BB1DE56E947F91 /* Day05.swift in Sources */,
 				EB1CE00F058E96B60D1D190D /* Day06.swift in Sources */,
+				EB1CE3D7DB24A623461881B3 /* Day07.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

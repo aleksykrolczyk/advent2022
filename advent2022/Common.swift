@@ -43,5 +43,9 @@ extension String {
         return self[start ... end]
     }
 
+    subscript(_ i: Int) -> Character {
+        self[index(startIndex, offsetBy: i)]
+    }
+
 }
 
