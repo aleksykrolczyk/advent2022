@@ -49,7 +49,7 @@ class Day08: AdventDay {
     }
 }
 
-extension Array where Element == Array<Int> {
+fileprivate extension Array where Element == Array<Int> {
     func matrixPrint() {
         for elem in self {
             print(elem)
@@ -94,7 +94,7 @@ extension Array where Element == Array<Int> {
     }
 }
 
-extension Array where Element == Array<Bool?> {
+fileprivate extension Array where Element == Array<Bool?> {
     func matrixPrint() {
         for row in self {
             for elem in row{

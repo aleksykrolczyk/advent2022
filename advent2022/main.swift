@@ -10,7 +10,6 @@ import Foundation
 
 let start = DispatchTime.now()
 
-
 //Day01(preload(dayNumber: "01")).solve()
 //Day02(preload(dayNumber: "02")).solve()
 //Day03(preload(dayNumber: "03")).solve()
@@ -21,8 +20,8 @@ let start = DispatchTime.now()
 //Day08(preload(dayNumber: "08")).solve()
 //Day09(preload(dayNumber: "09")).solve()
 //Day10(preload(dayNumber: "10")).solve()
-Day11(preload(dayNumber: "11")).solve()
-//Day12(preload(dayNumber: "12")).solve()
+//Day11(preload(dayNumber: "11")).solve()
+Day12(preload(dayNumber: "12")).solve()
 //Day13(preload(dayNumber: "13")).solve()
 //Day14(preload(dayNumber: "14")).solve()
 //Day15(preload(dayNumber: "15")).solve()
